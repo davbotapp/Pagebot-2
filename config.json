@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "EAARrMCYxtwgBOZB1eXIezycb8ZALdfeZBA1Ka1OyaHTNhTkSZBO5Ml8bVDEA7q4pnWQd1tnFjAOJBddj6Xk3QmsJy8BvKAliQwRHUg77C0uCHqFsM25UyafzX5ZCI2QLyT7xnI5sTo8L8yQvZBecPXheZBIN0VLHhTmrW44dBZCcVa6ZAcgiZCFREZAO6enB7aPJ8yq1gZDZD",
+  "PAGE_ACCESS_TOKEN": "https://www.facebook.com/profile.php?id=61550884726891",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "100092277325670"
   ],
-  "BOTNAME": "RONALD BOT",
-  "PREFIX": "/",
+  "BOTNAME": "David BOT",
+  "PREFIX": "+",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "RONALD SORY",
+    "ADMIN": "David mpongo",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
